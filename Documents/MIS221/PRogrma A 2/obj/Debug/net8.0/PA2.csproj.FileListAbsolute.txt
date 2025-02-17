@@ -1,0 +1,15 @@
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.AssemblyInfoInputs.cache
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.AssemblyInfo.cs
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.csproj.CoreCompileInputs.cache
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.sourcelink.json
+C:\Users\monke\Documents\MIS221\PA2\bin\Debug\net8.0\PA2.exe
+C:\Users\monke\Documents\MIS221\PA2\bin\Debug\net8.0\PA2.deps.json
+C:\Users\monke\Documents\MIS221\PA2\bin\Debug\net8.0\PA2.runtimeconfig.json
+C:\Users\monke\Documents\MIS221\PA2\bin\Debug\net8.0\PA2.dll
+C:\Users\monke\Documents\MIS221\PA2\bin\Debug\net8.0\PA2.pdb
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.dll
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\refint\PA2.dll
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.pdb
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\PA2.genruntimeconfig.cache
+C:\Users\monke\Documents\MIS221\PA2\obj\Debug\net8.0\ref\PA2.dll
